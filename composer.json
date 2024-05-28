@@ -15,7 +15,7 @@
     },
     "require": {
         "yiisoft/yii2": "~2.0.0",
-        "jambtc/yii2-tree-grid-view": "^1.0"
     },
-    "license": "GNU GENERAL PUBLIC LICENSE"
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "minimum-stability": "stable"
 }
