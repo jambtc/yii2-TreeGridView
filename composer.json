@@ -1,0 +1,20 @@
+{
+    "name": "jambtc/yii2-tree-grid-view",
+    "description": "A Yii2 GridView extension that provides a tree-like structure with collapsible rows.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sergio Casizzone",
+            "email": "jambtc@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\widgets\\": "src/"
+        }
+    },
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "license": "MIT"
+}

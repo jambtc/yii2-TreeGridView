@@ -1,0 +1,27 @@
+/** simulazione tree grid view personalizzata 
+* by Sergio Fiorenza 
+*/
+.tree-grid-view .depth-indent {
+    display: inline-block;
+    width: 20px;
+}
+
+.tree-grid-view .toggle {
+    cursor: pointer;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid black;
+    margin-right: 5px;
+}
+
+.tree-grid-view .toggle.collapsed {
+    border-top: none;
+    border-left: 5px solid black;
+    border-bottom: 5px solid transparent;
+    border-right: 5px solid transparent;
+}
+
+/* ----fine tree grid view ----------------------*/
