@@ -13,7 +13,7 @@ TreeGridView is a Yii2 GridView extension that provides a tree-like structure wi
 You can install the package using Composer. Add the package to your project with the following command:
 
 ```sh
-composer require jambtc/yii2-tree-grid-view
+composer require jambtc/yii2-tree-grid-view "dev-main"
 ```
 
 ## Usage
