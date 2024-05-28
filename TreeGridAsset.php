@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class TreeGridAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/jambtc/treegrid/src/assets';
+    public $sourcePath = '@vendor/jambtc/treegrid/assets';
     public $js = [
         'js/treegrid.js',
     ];

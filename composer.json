@@ -11,12 +11,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "jambtc\\treegrid\\": "src/"
+            "jambtc\\treegrid\\": ""
         }
     },
     "require": {
         "yiisoft/yii2": "~2.0.0"
     },
-    "license": "GNU GENERAL PUBLIC LICENSE",
+    "license": "MIT",
     "minimum-stability": "stable"
 }

@@ -10,7 +10,7 @@
  * @license    MIT License (https://opensource.org/licenses/MIT)
  *
  * @category   Widgets
- * @author     Your Name <jambtc@gmail.com>
+ * @author     Sergio Casizzone <jambtc@gmail.com>
  */
 
 namespace jambtc\treegrid;
