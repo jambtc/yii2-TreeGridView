@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "jambtc\\treegrid\\": ""
+            "jambtc\\treegrid\\": "src/"
         }
     },
     "require": {

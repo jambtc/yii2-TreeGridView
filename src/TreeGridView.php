@@ -13,9 +13,9 @@
  * @author     Your Name <jambtc@gmail.com>
  */
 
-namespace app\widgets;
+namespace jambtc\treegrid;
 
-use jambtc\assets\TreeGridAsset;
+use jambtc\treegrid\TreeGridAsset;
 use yii\grid\GridView;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;

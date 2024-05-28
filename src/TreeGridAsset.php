@@ -1,12 +1,12 @@
 <?php
 
-namespace app\widgets;
+namespace jambtc\treegrid;
 
 use yii\web\AssetBundle;
 
 class TreeGridAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/jambtc/assets';
+    public $sourcePath = '@vendor/jambtc/treegrid/src/assets';
     public $js = [
         'js/treegrid.js',
     ];
